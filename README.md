@@ -1,4 +1,6 @@
 ## Automation Stockbit website
+Automation Web Testing using Selenium Java, #BDD Testing using Cucumber Selenium Java
+
 precondition : 
 - Setup IntelliJ IDEA 
   - Download : https://www.jetbrains.com/idea/download/

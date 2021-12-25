@@ -15,4 +15,4 @@ Feature: Login
     Then user is navigated to the home page
     Examples:
       | arg0                     | arg01     |
-      | "affixabidita@gmail.com" | "Test123" |
+      | "usernam" | "pass" |
